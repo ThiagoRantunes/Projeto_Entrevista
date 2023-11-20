@@ -1,0 +1,4 @@
+1.	Abra o XAMPP e de Start em Apache e MySQL
+2.  Inicie o Código “main.py”
+
+O codigo ta com o proposito de subir o banco automaticamente assim que você iniciar a execução, caso não suba você pode subir manualmente
